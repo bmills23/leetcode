@@ -4,7 +4,6 @@
 
 // You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 
-
 // each ListNode is a node in the singly linked list 
 function ListNode(val, next) {
     this.val = (val===undefined ? 0 : val);
